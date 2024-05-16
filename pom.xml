@@ -11,6 +11,11 @@
     <name>tech-pod</name>
     <url>http://www.example.com</url>
  
+    <scm>
+	    		<url>https://github.com/openshift007/techpod-demo.git</url>
+					<connection>scm:git:git://github.com/openshift007/techpod-demo.git</connection>
+							<developerConnection>scm:git:git@github.com:openshift007/techpod-demo.git</developerConnection>
+								</scm>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>11</java.version>
